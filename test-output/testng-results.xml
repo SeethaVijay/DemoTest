@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="128152" started-at="2022-11-09T05:58:16Z" finished-at="2022-11-09T06:00:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="128152" started-at="2022-11-09T05:58:16Z" finished-at="2022-11-09T06:00:25Z">
+      <class name="org.sam.Demojsl">
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.sam.Demojsl@6b419da]" name="tc01" duration-ms="44037" started-at="2022-11-09T05:58:16Z" data-provider="LoginData" finished-at="2022-11-09T05:59:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jsl.ece1992@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.sam.Demojsl@6b419da]" name="tc01" duration-ms="44725" started-at="2022-11-09T05:59:00Z" data-provider="LoginData" finished-at="2022-11-09T05:59:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seetha1992&gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gfrtyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.sam.Demojsl@6b419da]" name="tc01" duration-ms="39272" started-at="2022-11-09T05:59:45Z" data-provider="LoginData" finished-at="2022-11-09T06:00:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sderftg56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sertgjf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- org.sam.Demojsl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
